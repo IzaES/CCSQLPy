@@ -1,0 +1,2 @@
+# CCSQLPy
+Carpeta curso mayo
