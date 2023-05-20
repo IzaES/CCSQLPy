@@ -1,2 +1,3 @@
 # CCSQLPy
-Carpeta curso mayo
+Carpeta del curso py sql mayo 2023 
+Códigos y proyectos
